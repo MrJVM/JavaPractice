@@ -1,6 +1,7 @@
 package com.practice.matrix;
 
 class OfficeCounter {
+
     /*
         This practice takes a 2D matrix and tries to identify how many offices can be created out of a matrix,
         the matrix is filled with 1's and 0's:
