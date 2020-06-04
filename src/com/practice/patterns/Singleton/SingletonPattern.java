@@ -5,7 +5,7 @@ public class SingletonPattern {
 
     private static SingletonPattern singleton = new SingletonPattern(); //Only one will ever be created!
 
-    private SingletonPattern(){
+    private SingletonPattern() { //Importanrt the constructor must be private to avoid creating new instances
 
     }
 
